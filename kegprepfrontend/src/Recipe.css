@@ -1,0 +1,55 @@
+.steps{
+    text-align: justify;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.note{
+    text-align: justify;
+    margin-left: 1%;
+    margin-right: 1%;
+    color: red;
+    font-weight: bold;
+}
+
+.storage{
+    text-align: justify;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+h3{
+    text-align: left;
+    margin-left: 5%;
+}
+
+.ings{
+    text-align: left;
+    margin-left: 10%;
+}
+
+#searchBar{
+    margin-top: 2%;
+}
+
+#warning{
+    color: red;
+    font-weight: bold;
+}
+
+#button{
+    margin-top: 0;
+    margin-bottom: 1%;
+    margin-right: 5%;
+    width: 30%;
+    height: 50px;
+}
+
+#buttonContainer{
+    width: 100%;
+    display: inline-block;
+}
+
+input{
+    text-align: center;
+}
